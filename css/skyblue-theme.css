@@ -1,0 +1,63 @@
+.option-box,
+.features .feat span.glyphicon,
+.price .price-box:hover span,
+.price .price-box:active span,
+.price .price-box:focus span {
+    border: 3px solid #2980b9;
+}
+
+.carousel-indicators li,
+.our-team .person i:hover {
+    border: 1px solid #2980b9;
+}
+
+.features .feat,
+.testimonials .carousel-indicators li.active,
+.price .price-box {
+    border: 2px solid #2980b9;
+}
+
+.features .feat,
+.price .price-box {
+    box-shadow: 2px 2px 7px 1px #2980b9;
+}
+
+.features,
+.testimonials,
+.price,
+.our-team,
+.subscribe,
+.subscribe form .form-control:focus,
+.statistic,
+.our-skills,
+.contact-us .overlay,
+.our-clints {
+    border-bottom: 2px solid #2980b9;
+}
+
+.navbar-inverse .navbar-nav>.active>a,
+.navbar-inverse .navbar-nav>.active>a:hover,
+.navbar-inverse .navbar-nav>.active>a:focus,
+.dropdown-menu>li>a:hover,
+.dropdown-menu>li>a:focus,
+.dropdown-menu .divider,
+.carousel-indicators .active {
+    background: #2980b9;
+}
+
+.navbar-inverse .navbar-nav>li>a:hover,
+.navbar-inverse .navbar-nav>li>a:active,
+.navbar-inverse .navbar-nav>li>a:focus,
+.navbar-inverse .navbar-brand span,
+.about h2 span,
+.features .feat span.glyphicon,
+.testimonials .carousel .carousel-inner .item h3,
+.statistic i,
+.price .price-box span,
+.contact-us .overlay i,
+.contact-us form input,
+.contact-us form textarea,
+footer h3,
+footer .copy-right span {
+    color: #2980b9;
+}
