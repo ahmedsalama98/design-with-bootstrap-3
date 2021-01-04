@@ -19,17 +19,8 @@ $(function() {
             interval: 5000
         })
 
-        //trigger nicescoll//
 
-        $("html").niceScroll({
-                zindex: "9999999999",
-                cursorcolor: "#325BFF",
-                cursorwidth: "12px",
-                cursorborderradius: "0",
-                cursorborder: "2px solid #325BFF",
-                cursoropacitymin: "1"
-            })
-            //trigger nicescoll//
+      
         var placehold = "";
 
         $("[placeholder]").focus(function() {
